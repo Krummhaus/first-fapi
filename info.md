@@ -11,3 +11,7 @@ python3 -m venv __venv__
 cd __venv__
 source __venv__/bin/activate
 ```
+
+## Black formatter extension
+- Linux: `Ctrl + Shift + I`
+- Windows: `Ctrl + Alt + F`
